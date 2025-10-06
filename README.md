@@ -34,3 +34,27 @@ Este desafio me permitiu:
 ---
 
 ✨ Este projeto representa meu **primeiro contato prático com análise de dados** e é a base para os próximos desafios na área.
+
+
+---
+
+## 📘 Segunda Fase do Curso – Funções e Cálculos com Médias
+
+Na segunda parte do curso, aprofundei meus conhecimentos em **funções do Excel** e **tabelas estruturadas**, aprendendo a criar fórmulas mais dinâmicas e automatizadas.  
+Entre os aprendizados principais estão:  
+- Uso de **funções estatísticas** como `MÉDIA`, `MÉDIASE` e `MÉDIASES`  
+- Diferença entre **referências absolutas, relativas e estruturadas**  
+- Criação e personalização de **tabelas estruturadas**  
+- Aplicação de fórmulas automáticas dentro de tabelas  
+- Boas práticas de formatação e leitura de dados  
+
+### 🎯 Desafio final
+Recriar a **tabela de médias** aprendida anteriormente, mas desta vez utilizando **referência estruturada**, garantindo que as fórmulas se atualizem automaticamente ao inserir novos dados.
+
+### 💡 Aprendizados com o desafio
+- Fortaleci o entendimento sobre **como o Excel reconhece colunas e campos automaticamente**  
+- Pratiquei **organização de fórmulas em tabelas dinâmicas**  
+- Desenvolvi maior domínio sobre **funções de média e estruturação de dados**
+
+### 📁 Arquivo atualizado
+- `METEORA_ECOMMERCE.xlsx` – agora inclui a planilha de **médias com referência estruturada** e demais atualizações da segunda fase do curso.
