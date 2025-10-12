@@ -58,3 +58,24 @@ Recriar a **tabela de médias** aprendida anteriormente, mas desta vez utilizand
 
 ### 📁 Arquivo atualizado
 - `METEORA_ECOMMERCE.xlsx` – agora inclui a planilha de **médias com referência estruturada** e demais atualizações da segunda fase do curso.
+
+
+---
+
+📊 Terceira Fase – Recursos Visuais e Dashboards
+
+Nesta etapa, aprendi a aplicar recursos visuais no Excel para deixar as planilhas mais intuitivas e informativas. Explorei:
+
+Formatação condicional para destacar automaticamente valores importantes.
+
+Criação de gráficos dinâmicos e personalizados.
+
+Montagem de dashboards e painéis informativos, reunindo diferentes tipos de dados em uma única visão clara e funcional.
+
+No desafio final da fase, precisei reconfigurar os gráficos existentes:
+
+Transformei os gráficos de “relógio” (roscas), antes separados por categoria em três roscas, em gráficos de barras com porcentagens.
+
+Em seguida, fiz o oposto: converti o gráfico de barras em gráfico de rosca, mantendo a separação por categoria.
+
+Para isso, criei uma nova tabela de porcentagens, reorganizei os dados, agrupei os elementos e ajustei a disposição dos componentes no dashboard, garantindo melhor visualização e agilidade na análise dos resultados.
